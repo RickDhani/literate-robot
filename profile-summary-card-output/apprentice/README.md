@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/RickDhani/literate-robot/master/profile-summary-card-output/apprentice/4-productive-time.svg)
-```
-
-    
